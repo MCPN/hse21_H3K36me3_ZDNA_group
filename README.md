@@ -18,4 +18,6 @@
 
 Туманов В - https://github.com/vadosi/hse21_H3K36me3_ZDNA_human
 
-сессия Genome Browser - http://genome.ucsc.edu/s/udovichenko/hse21_hg19_group
+Сессия Genome Browser - http://genome.ucsc.edu/s/udovichenko/hse21_hg19_group
+
+Презентация - https://docs.google.com/presentation/d/1F8nEKH0kcbS58LjoIJ3ol6EP_0-osVtFTrF3m728WK0/edit?usp=sharing
